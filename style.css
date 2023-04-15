@@ -386,14 +386,13 @@ h3 {
         margin-left: 180px;
         margin-top: -90px;
     }
-    
-    .littlething {
-    position: absolute;
-    width: 129px;
-    height: 20px;
-    background-color: #FFFFFF;
-    border-radius: 0px 0px 14px 14px;
-    margin-left: 60px;
-}
+
+    .dot {
+        margin-left: 135px;
+    }
+
+    .person {
+        margin-left: -17px;
+    }
 
 }
